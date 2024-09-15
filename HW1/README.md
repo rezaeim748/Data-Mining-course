@@ -1,8 +1,6 @@
 
 # Data Mining Homework 1
 
-This repository contains the first practical homework assignment for the **Data Mining** course, taught by **Dr. Maryam Amir Mazloqani**. The assignment focuses on data analysis and processing using various machine learning techniques and libraries.
-
 ## Homework Overview
 
 ### Tools and Libraries Used:
@@ -26,7 +24,7 @@ This repository contains the first practical homework assignment for the **Data 
 
 1. Clone the repository.
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/rezaeim748/Data-Mining-course.git
    ```
 2. Open the Jupyter notebook:
    ```bash
