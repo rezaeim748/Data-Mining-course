@@ -24,7 +24,7 @@
 
 1. Clone the repository.
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/rezaeim748/Data-Mining-course.git)
    ```
 2. Open the Jupyter notebook:
    ```bash
