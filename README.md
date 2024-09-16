@@ -1,5 +1,5 @@
 
-# Data Mining Course Homeworks
+# Data Mining Course
 
 This repository contains a collection of practical homework assignments developed as part of the **Data Mining Course**. The assignments focus on various data mining techniques and machine learning algorithms, including data preprocessing, regression, classification, and model evaluation.
 
