@@ -30,10 +30,10 @@ This repository contains the second practical homework for the Data Mining cours
 - Model evaluation is based on accuracy and mean squared error (MSE).
 
 ## How to Run
-1. Install the required Python libraries:
+1. Clone the repository.
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/rezaeim748/Data-Mining-course.git
 ```
 
 2. Load the Jupyter Notebook:
