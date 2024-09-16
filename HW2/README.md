@@ -1,5 +1,5 @@
 
-# Data Mining Homework 2 - Practical
+# Data Mining Homework 2
 
 This repository contains the second practical homework for the Data Mining course, focusing on data preprocessing, regression, and classification tasks using various machine learning techniques.
 
